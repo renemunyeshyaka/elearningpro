@@ -6,6 +6,8 @@ src/main/resources/application.properties
 # Ignore application.properties file
 application.properties
 
+# Ignore addition list here
+
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
