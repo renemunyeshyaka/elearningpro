@@ -1,3 +1,12 @@
+src/main/resources/application.properties
+.env
+*.key
+*.pem
+
+### AP ###
+
+application.properties
+
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
