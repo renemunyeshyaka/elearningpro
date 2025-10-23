@@ -3,8 +3,7 @@ src/main/resources/application.properties
 *.key
 *.pem
 
-### AP ###
-
+# Ignore application.properties file
 application.properties
 
 HELP.md
