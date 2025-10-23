@@ -48,4 +48,6 @@ public class UserRegistrationDTO {
     public boolean isPasswordMatching() {
         return password != null && password.equals(confirmPassword);
     }
+    
+    
 }
